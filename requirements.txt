@@ -1,0 +1,9 @@
+pymilvus
+langchain
+unstructured
+pandas
+sentence-transformers
+python-decouple
+fastapi
+pypdf
+python-multipart
